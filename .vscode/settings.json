@@ -1,0 +1,7 @@
+{
+    "java.completion.enabled": false,
+    "java.autobuild.enabled" : false,
+    "java.codeGeneration" : false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.validate.enable": false
+}
