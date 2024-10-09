@@ -1,4 +1,4 @@
-package buildingBlocks;
+package buildingBlocks.classCreation;
 
 class comments {
 // single line comment
