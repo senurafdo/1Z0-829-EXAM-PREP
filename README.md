@@ -1,3 +1,4 @@
+## Building Blocks 
 ### How to compile java files from different packages
 
 #### compile java files 
@@ -26,3 +27,8 @@ java -classpath buildingBlocks/packages/classes  buildingBlocks/packages/package
 java --class-path buildingBlocks/packages/classes  buildingBlocks/packages/packageb/ClassB
 
 java --class-path buildingBlocks/packages/classes  buildingBlocks.packages.packageb.ClassB
+
+## Lambdas and Functional Interfaces
+
+lambdas work only with interfaces only with one abstract method 
+
