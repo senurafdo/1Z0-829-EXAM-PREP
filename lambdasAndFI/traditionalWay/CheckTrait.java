@@ -1,4 +1,3 @@
-package lambdasAndFI.traditionalWay;
 
 public interface CheckTrait{
  

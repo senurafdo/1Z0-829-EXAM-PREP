@@ -1,5 +1,3 @@
-package lambdasAndFI.traditionalWay;
-
 import java.util.*; 
 
 public class TraditionalSearch {
@@ -17,7 +15,8 @@ public class TraditionalSearch {
         print(animals, a -> !a.canSwim());
 
     }
-
+    // print() method expect an interface as a second parameter
+    //as the second parameter we can send a lambda
     private static void print(List<Animal> animals, CheckTrait checker){
         for(Animal animal: animals){
             //gerneral check 

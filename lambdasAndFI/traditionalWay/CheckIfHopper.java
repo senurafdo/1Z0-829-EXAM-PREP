@@ -1,4 +1,4 @@
-package lambdasAndFI.traditionalWay;
+
 
 public class CheckIfHopper implements CheckTrait{
 
