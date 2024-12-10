@@ -1,4 +1,4 @@
 public interface LearnToSpeak {
 
-    void speak(String sound);
+     void speak(String sound);
 }
