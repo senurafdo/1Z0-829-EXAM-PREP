@@ -27,5 +27,11 @@ public class EqualsOperator {
         var myName = "Chester";
         var builder = new StringBuilder("Chester");
         System.out.println("String and StringBuilder " + myName.equals(builder));
+
+
+        System.out.println("----- equals on arrays-----");
+        String[] arr = {"abc"};
+        String[] arr1 = {"abc"};
+        System.out.println("usage "+ (arr.equals(arr1)));
     }
 }
