@@ -1,6 +1,6 @@
 package array;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Sorting {
     public static void main(String[] args) {
@@ -22,7 +22,12 @@ public class Sorting {
         // numbers before letters.  uppercase before lowercase
 
       //  int[] randomNumbers = {2, 3, 4, 5, 6, null}; <- null can not be placed in int
-        String randomString[] = {null};
+
+
+
+
+
+
 
     }
 }

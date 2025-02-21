@@ -10,7 +10,7 @@ public class Main {
         String name3 = name;
        // System.out.println("name & name3 : " + name3 == name);
 
-       // System.out.println("name & name3 : " + name3.equals(name));
+        System.out.println("name & name3 : " + name3.equals(name));
 
         String name4 = "Chester ";
         System.out.println("name & name4 : " + (name == name4.trim()));
