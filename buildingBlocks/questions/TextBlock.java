@@ -9,6 +9,7 @@ public class TextBlock {
                 """;
 
         System.out.print(hello);
+        System.out.print("test");
 
         var eyeTest = """
                 "Java study guide"

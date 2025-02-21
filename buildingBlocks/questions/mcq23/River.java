@@ -1,9 +1,9 @@
-package buildingBlocks.questions.mcq23;
+package mcq23;
 
 public class River {
     
-    int Depth = 1; 
-    float temp = 50.0;
+    int depth = 1;
+    float temp = 50.0F;
     
     public void flow(){
         for(int i = 0;i < 1; i++ ){
@@ -15,7 +15,8 @@ public class River {
     System.out.println(temp);
 }
 public static void main(String... s) {
-    new River().flow();
+
+        new River().flow();
 }
 
 }
